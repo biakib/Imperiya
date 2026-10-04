@@ -1,4 +1,4 @@
-window.INITIAL_DATA = {
+window.INITIAL_DATA={
   "schemaVersion": 4,
   "revision": "empire-modern-2026-10-04",
   "projects": [
@@ -403,7 +403,7 @@ window.INITIAL_DATA = {
       "id": "petr",
       "name": "Пётр Решетников",
       "role": "Нейродетекция",
-      "photo": ""
+      "photo": "assets/full-petr-reshetnikov.png"
     },
     {
       "id": "andrey",
